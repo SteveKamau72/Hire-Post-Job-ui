@@ -18,8 +18,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".activities.PostJob"
-            android:theme="@style/customAppTheme"></activity>
+            android:name=".activities.PostJob"></activity>
     </application>
 
 </manifest>
